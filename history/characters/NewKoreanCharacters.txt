@@ -1,0 +1,96 @@
+30000505 = {
+	name="Kyongmo"
+	dynasty=20000266 #Lee, aka house of Samsung
+	religion="gidoggyo"
+	culture="gyeonggi"
+	father=30000497
+	trait="elusive_shadow"
+	trait="shrewd"
+	trait="schemer"
+	trait="ambitious"
+	trait="impaler"
+	trait="gregarious"
+	trait="mystic"
+	disallow_random_traits = yes
+	2538.5.8={
+		birth=yes
+	}
+	2706.1.1={
+		death=yes
+	}
+}
+30000506 = {
+	name="Chagyong"
+	dynasty=20000269 #Chung, aka house of Hyundai
+	religion="gidoggyo"
+	culture="gyeonggi"
+	father=30000498
+	trait="brave"
+	trait="just"
+	trait="gamer"
+	disallow_random_traits = yes
+	2539.1.7={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000507 = {
+	name="Kyongmo"
+	dynasty=6015245 #Chong, aka house of Kia
+	religion="mahayana"
+	culture="jeolla"
+	father=30000499
+	trait="temperate"
+	trait="proud"
+	disallow_random_traits = yes
+	2539.3.6={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000508 = {
+	name="Jinho"
+	dynasty=6015238 #Koo, aka house of LG
+	religion="shindo"
+	culture="jeolla"
+	father=30000500
+	trait="rowdy"
+	trait="willful"
+	disallow_random_traits = yes
+	2540.2.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30003055 ={ 
+    name="Renjun" 
+	dynasty=20000282
+	martial=10
+	diplomacy=9
+	intrigue=9
+	stewardship=7
+	learning=8
+	religion="shindo"
+	culture="jeju"
+	father=30003023
+	trait="brilliant_strategist"
+	trait="content"
+	trait="kind"
+	trait="honest"
+	trait="fair"
+	trait="groomed"
+	trait="strong"
+	trait="light_foot_leader"
+	2538.10.14={
+		birth=yes
+	}
+	2600.1.1={
+		death=yes
+	}
+}
