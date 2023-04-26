@@ -1,0 +1,47 @@
+RETTYPE_HWARANG = 
+{
+	first_type = 5
+	first_amount = 150
+	
+	second_type = 1
+	second_amount = 100
+	
+	potential = {
+        is_nomadic = no
+        OR = {
+        culture = yukchin
+		culture = hamgyong
+		culture = pyongyan
+		culture = gyeonggi
+		culture = gyeongsang
+		culture = jeolla
+		culture = jeju
+        }
+    }
+	
+	modifier = {
+		archers_offensive = 0.2
+		heavy_infantry_offensive = 0.2
+	}
+}
+
+RETTYPE_CUL_YANBIAN = 
+{
+	first_type = 3
+	first_amount = 150
+	second_type = 6
+	second_amount = 100
+
+	special_troops = chariots
+	
+	potential = {
+		higher_tier_than = BARON
+		is_nomadic = no
+		culture = yanbian
+	}
+	
+	modifier = {
+		light_cavalry_defensive = 0.2
+		chariots_defensive = 0.2
+	}
+}
